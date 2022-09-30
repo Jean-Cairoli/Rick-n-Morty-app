@@ -1,0 +1,24 @@
+.header {
+	background-color: black;
+	height: 3.5rem;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.social-icons {
+	display: inline;
+	/* margin-left: 10px; */
+	display: flex;
+	justify-content: space-between;
+}
+/* 
+.name {
+	margin-right: 250px;
+} */
+
+.redirect {
+	text-decoration: none;
+	color: #ffffff;
+}
