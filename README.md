@@ -2,7 +2,7 @@
 
 ### About this App
 
-This app allows the Rick & Morty Fans to find more infomation about thier favority characters
+This app allows the Rick & Morty Fans to find more infomation about thier favorite characters
 
 ### See a preview here
 
