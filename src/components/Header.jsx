@@ -18,7 +18,7 @@ const Header = () => {
 				<a
 					target="_blank"
 					rel="noreferrer"
-					href="https://www.linkedin.com/feed/"
+					href="https://www.linkedin.com/in/jean-cairoli-a94a6622a/"
 					className="redirect"
 				>
 					<LinkedInIcon fontSize="large" />
