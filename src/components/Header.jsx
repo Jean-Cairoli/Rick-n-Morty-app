@@ -10,7 +10,7 @@ const Header = () => {
 				<a
 					target="_blank"
 					rel="noreferrer"
-					href="https://github.com/Jean-Cairoli/Puppies-App"
+					href="https://github.com/Jean-Cairoli"
 					className="redirect"
 				>
 					<GitHubIcon fontSize="large" />
