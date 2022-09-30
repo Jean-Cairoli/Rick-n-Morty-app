@@ -6,7 +6,7 @@ This app allows the Rick & Morty Fans to find more infomation about thier favori
 
 ### See a preview here
 
-[LIVE DEMO](Link)
+[LIVE DEMO](https://jazzy-truffle-b94bef.netlify.app)
 
 ### Getting Started
 
