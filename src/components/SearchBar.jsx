@@ -2,7 +2,7 @@ import { Box, Button, TextField } from '@mui/material';
 import { Container } from '@mui/system';
 import { useState } from 'react';
 
-const SearchBar = ({ fetchQuery, resetCards }) => {
+const SearchBar = ({ fetchQuery }) => {
 	const [character, setCharacter] = useState('');
 
 	const handleSubmit = (e) => {
